@@ -23,4 +23,3 @@ Replicating Fitness app dashboard from dribble in SwiftUI
 [![Fitness Part 4 tutorial](http://img.youtube.com/vi/laca0Guk2GI/0.jpg)](https://youtu.be/laca0Guk2GI)
 
 ## Dribble Inspiration: https://dribbble.com/shots/9800109-Fitness-Device-App
-
