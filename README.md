@@ -5,7 +5,7 @@ Replicating Fitness app dashboard from dribble in SwiftUI
 ## Overview
 
 <p float="left">
-<img src="https://github.com/kazimunshimun/SwiftUIBankingApp/raw/master/banking.gif" width="340">
+<img src="https://github.com/kazimunshimun/FitnessApp/raw/master/fitness.gif" width="340">
 </p>
 
 ## Youtube speed code:
